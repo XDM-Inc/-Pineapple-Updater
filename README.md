@@ -7,3 +7,6 @@ future plans for this
 - make GUI version
 - make it detect if you are already on the latest version.
 - allow for keeping 1-3 old versions for backup/rollback purposes
+
+[Dependencies] 
+Wget, curl, xargs
